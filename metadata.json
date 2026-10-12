@@ -1,0 +1,6 @@
+{
+  "name": "Hashiko - Gestión Vet & Refugio",
+  "description": "Artisanal sketchbook rescue management platform for animal shelters, veterinary clinics, and pet adopters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
